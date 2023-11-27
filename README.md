@@ -1,5 +1,6 @@
 # TCU-Internship-Project-
 *using for job interviews only
+*This code is also not including OpenPose Library
 
 ![TCU Poster](https://github.com/Atp-Gaster/TCU-Internship-Project-/assets/73352721/ee861c8b-5f13-4c91-9fdf-28ed72b58bc6)
 
